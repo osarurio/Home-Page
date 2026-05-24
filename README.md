@@ -1,1 +1,2 @@
-# Home-Page
+こんにちは！osarurio公式ホームページ🏠「osarurio LAB」制作のための、公開リポジトリです。
+このwebサイトはcssとJavascriptを含んだHTMLファイルで作られています。
